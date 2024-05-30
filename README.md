@@ -22,11 +22,3 @@ The dataset contains various features of songs including valence, year, acoustic
 3. Install the required dependencies:
   -pip install -r requirements.txt
 
-#### Example: Get 5 recommendations for a specific song
-##### Test with a specific song
-song_name = "Piano Concerto No. 3 in D Minor, Op. 30: III. Finale. Alla breve"
-recommendations = get_recommendations(song_name)
-
-print(f"Recommendations for '{song_name}':")
-print(recommendations)
-
