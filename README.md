@@ -14,7 +14,7 @@ The dataset contains various features of songs including valence, year, acoustic
 
 ### Installation
 1. Clone the repository:
-  -git clone https://github.com/your-username/music-recommendation-system.git
+  -git clone https://github.com/deepeshyadav760/music-recommendation-system.git
    
 2. Navigate the repository directory: 
   -cd music-recommendation-system
